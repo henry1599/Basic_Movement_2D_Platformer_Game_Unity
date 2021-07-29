@@ -7,6 +7,10 @@ My basic movement mechanic for 2d platformer game (using keyboard).
 3. Basic cool jump. (hold jump button for longer jump).
 4. Basic multiple jump. (multiple jump on air).
 5. Basic wall jumping. (jump when touching the wall).
+6. 
+## SETTING UP THE CODE
+Place the folder "Platformer2DController" inside the "Assets" folder.
+
 ## HOW TO USE ?
 ### 1. Basic horizontal movement with and without flipping the object :
 Aplly the following sample code to your object to move :
