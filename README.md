@@ -241,7 +241,7 @@ public class Controll : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        timeWallJumping = timeWallJumpingValue;
     }
 
     // Update is called once per frame
