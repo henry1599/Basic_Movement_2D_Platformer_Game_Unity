@@ -267,6 +267,6 @@ About the "Recommended value", this is just my recommendation for the fittest va
 This source code is mostly referenced on the internet and was initially written by me for simplifying my code.\
 Recently, I found it helpful if I share it to other people to reuse it as well as changing it if possible.\
 You guys can stick around with these function and combined them whatever you want.\
-Feel free to change to source code and change them by your own.
+Feel free to change the source code by your own.
 
 Last but not least, if you find any bugs or you have any suggestions to my code, feel free to contact me via email : lthieu1599@gmail.com. Thanks!
