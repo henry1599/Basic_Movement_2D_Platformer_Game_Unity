@@ -1,5 +1,5 @@
 # Basic Movement 2D Platformer Game In Unity
-My basic movement mechanic for 2d platformer game (using keyboard).
+My basic movement mechanic for 2d platformer game (using keyboard) in Unity Engine.
 ## INTRODUCTION 
 ### The code contains several basic movement mechanics for 2d platformer game :
 1. Basic horizontal movement. (with and without flipping the object).
